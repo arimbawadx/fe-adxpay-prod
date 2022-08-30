@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkadxpay"]=self["webpackChunkadxpay"]||[]).push([[443],{7618:function(a,n,u){u.r(n),u.d(n,{default:function(){return f}});var e=u(3396);const t={class:"about"},r=(0,e._)("h1",null,"This is an about page",-1),s=[r];function c(a,n,u,r,c,i){return(0,e.wg)(),(0,e.iD)("div",t,s)}var i={name:"AboutView"},o=u(89);const d=(0,o.Z)(i,[["render",c]]);var f=d}}]);
+//# sourceMappingURL=about.cc4f5374.js.map
